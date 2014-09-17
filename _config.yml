@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title:            Site Title
-locale:           en_US
-url:              http://localhost:4000
+title:            Micha.el Matt.es
+locale:           de_DE
+url:              http://micha.elmatt.es
 
 
 # Jekyll configuration
@@ -26,16 +26,16 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
+  name: Michael Mattes
   avatar: bio-photo.jpg
-  bio: "Describe your self."
+  bio: "Owner of this site"
   email: 
-  disqus-shortname: 
+  disqus-shortname: michaelmattes
   twitter: #username
   facebook: #username
   google:
     plus: #username
-    analytics: 
+    analytics: UA-54922522-1
     verify: 
     ad-client: 
     ad-slot: 
