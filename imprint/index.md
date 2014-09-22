@@ -7,7 +7,7 @@ comments: false
 
 <h3>Angaben gemäß § 5 TMG:</h3>
 <p>Michael Mattes<br />
-Egginger Weg 30<br />
+Ludwig-Beck-Straße 36<br />
 89075 Ulm
 </p>
 <h3>Kontakt:</h3>
