@@ -17,7 +17,7 @@ comments: true
 * Das [Interaktive Java-Tutorial](http://www.gailer-net.de/tutorials/java/) ist meiner Meinung nach toll, um ins Programmieren einzusteigen. Ich empfehle es auch für Personen, die mit einer anderen objektorientierten Programmiersprache anfangen.
 * Übung für Programmierwettbewerbe gibt es auf [Sphere Online Judge](http://spoj.pl/)
 
-### C\#
+### C# ###
 * [Visual Studio Express](http://microsoft.com/germany/express) - wähle *Express 2013 for Windows Desktop*
 * [AntMe](http://antme.net/) für Programmierübung mit Spielecharakter.
 

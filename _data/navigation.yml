@@ -6,11 +6,11 @@
 - title: Ich
   url: /about/
 
-- title: Impressum
-  url: /imprint/
+#- title: Impressum
+#  url: /imprint/
 
-- title: Datenschutz
-  url: /privacy/
+#- title: Datenschutz
+#  url: /privacy/
 
 #- title: Sample Posts
 #  url: /posts/
