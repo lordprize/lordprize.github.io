@@ -1,7 +1,13 @@
 # Site navigation links
 
-- title: Learners
+- title: Lernende
   url: /learn/
+
+- title: Impressum
+  url: /imprint/
+
+- title: Datenschutz
+  url: /privacy/
 
 #- title: About
 #  url: /about/
