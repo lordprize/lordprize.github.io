@@ -12,23 +12,7 @@ Bastelprojekten und möchte hier eine Auswahl vorstellen.
  
 ## Projekte
 
-### Selbst gemacht
-* 2009 selbst gebauter [MikroKopter](http://www.mikrokopter.de/) - heute gibt
-es so etwas billiger und fertig :)
-* Sous-vide-Kocher aus einem alten Reiskocher - nach Vorbild von AdaFruit: the
-[SousViduino](https://learn.adafruit.com/sous-vide-powered-by-arduino-the-sous-viduino/sous-vide)
-* mehrere Play-by-E-Mail-Systeme
-* weitere kleine Elektronikprojekte (etwa 20)
-* viele kleine Softwareprojekte (etwa 100)
-
-### (Mit-)Betreut
-* CNC-Eiermalmaschine (Jugend Forscht 2011)
-* Märklin-Lok mit dem TI-81 ansteuern (JuFo 2012)
-* Automatische Haustierfütterungsanlage (JuFo 2013)
-* Intelligenter Heizhandschuh (JuFo 2013)
-* LED-Würfel (JuFo 2013)
-* Lieferantenzugang mit Einmal-Codes (JuFo 2014)
-* Universeller Parserkombinator (JuFo 2014)
+Siehe [Projektseite](/projects/).
 
 ## Empfehlungen
 
