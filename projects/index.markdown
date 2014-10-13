@@ -5,7 +5,7 @@ tags: [project]
 comments: false
 ---
 
-Wer Projektideen von hier verwendet, ohne mir Bescheid zu geben, wird mit dem [LART](http://en.wikipedia.org/wiki/File:LART.png) behandelt.
+Wer Projektideen von hier verwendet, ohne mir Bescheid zu geben, wird mit dem [LART](http://en.wikipedia.org/wiki/File:LART.png) behandelt. Bild und LART von [Peter Fetzer](http://www.peter-fetzer.net/).
 
 ## Ideen für Abschlussarbeiten oder Jugend Forscht
 * Billiger Segway-Nachbau für arme Länder
