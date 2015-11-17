@@ -16,6 +16,7 @@ comments: true
 * Auf [Project Euler](http://projecteuler.net) finden sich vielfältige Übungsaufgaben mit mathematischem Hintergrund.
 * Das [Interaktive Java-Tutorial](http://www.gailer-net.de/tutorials/java/) ist meiner Meinung nach toll, um ins Programmieren einzusteigen. Ich empfehle es auch für Personen, die mit einer anderen objektorientierten Programmiersprache anfangen.
 * Übung für Programmierwettbewerbe gibt es auf [Sphere Online Judge](http://spoj.pl/)
+* Für ganz fleißige gibt es die [Matasano Crypto Challenge](http://cryptopals.com/)
 
 ### C# ###
 * [Visual Studio Express](http://microsoft.com/germany/express) - wähle *Express 2013 for Windows Desktop*
@@ -26,3 +27,9 @@ comments: true
 
 ### Haskell
 * [Learn You a Haskell for Great Good](http://learnyouahaskell.com/)
+
+
+## Netzwerke
+
+### Subnetting
+* Der [IPv4-Subnetzgenerator von Jan Brinkel](http://ip-ihk.najlek.de/) ist super, um IPv4-Subnetting zu üben.
