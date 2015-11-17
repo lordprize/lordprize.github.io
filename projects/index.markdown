@@ -12,8 +12,8 @@ Wer Projektideen von hier verwendet, ohne mir Bescheid zu geben, wird mit dem [L
   * Eigenbau-Segways gibt es viele, die Kostenkontrolle bzw. das Upcycling von vorhandenen Materialien ist der Clou.
 * Alternative Honigaufbereitung mit Ultraschall
   * [Short report von Bruce D'Arcy zu diesem Thema](https://rirdc.infoservices.com.au/items/SR144)
-* Schülerdaten-Erfassungsprogramm
-  * Wir schulen jedes Jahr hunderte Personen ein und brauchen von allen ein Foto, eine gültige E-Mail-Adresse und weitere Daten. Diese könnten doch von einem Programm kommen
+* Ein-Knopf-Nachrichtenplayer für Senioren
+  * beispielsweise mit einem Raspberry Pi
  
 ## abgeschlossene Projekte
 
@@ -34,5 +34,6 @@ es so etwas billiger und fertig :)
 * LED-Würfel (JuFo 2013)
 * Lieferantenzugang mit Einmal-Codes (JuFo 2014)
 * Universeller Parserkombinator (JuFo 2014)
-
+* Schülerdaten-Erfassungsprogramm (Projektarbeit 2014)
+  * Wir schulen jedes Jahr hunderte Personen ein und brauchen von allen ein Foto, eine gültige E-Mail-Adresse und weitere Daten. Diese könnten doch von einem Programm gesammelt erfasst werden
 

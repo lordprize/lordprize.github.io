@@ -2,7 +2,6 @@
 layout: page
 title: Lernen
 tags: [learn]
-modified: 2014-08-08T20:53:07.573882-04:00
 comments: true
 #image:
 #  feature: texture-feature-02.jpg
@@ -33,3 +32,9 @@ comments: true
 
 ### Subnetting
 * Der [IPv4-Subnetzgenerator von Jan Brinkel](http://ip-ihk.najlek.de/) ist super, um IPv4-Subnetting zu üben.
+
+## Linux
+
+### Entwicklung
+* Wer in die Kernel-Entwicklung reinschauen will, kann sich an der [Eudyptula Challenge](http://eudyptula-challenge.org/) versuchen.
+
