@@ -14,6 +14,8 @@ Wer Projektideen von hier verwendet, ohne mir Bescheid zu geben, wird mit dem [L
   * [Short report von Bruce D'Arcy zu diesem Thema](https://rirdc.infoservices.com.au/items/SR144)
 * Ein-Knopf-Nachrichtenplayer für Senioren
   * beispielsweise mit einem Raspberry Pi
+* Low-Power, low-cost Temperatur- und Feuchtigkeitsmessung mit Telemetrie
+  * ein ESP-01 bietet sich da an
  
 ## abgeschlossene Projekte
 
@@ -36,4 +38,5 @@ es so etwas billiger und fertig :)
 * Universeller Parserkombinator (JuFo 2014)
 * Schülerdaten-Erfassungsprogramm (Projektarbeit 2014)
   * Wir schulen jedes Jahr hunderte Personen ein und brauchen von allen ein Foto, eine gültige E-Mail-Adresse und weitere Daten. Diese könnten doch von einem Programm gesammelt erfasst werden
-
+* USB-CopyBox (Projektarbeit 2015)
+  * Wir geben Prüfungsdateien per USB an unsere Prüflinge und sammeln deren Bearbeitungen wieder per USB ein. Um dabei Zeit zu sparen, haben wir nun eine Box, an die gleichzeitig 20 USB-Sticks gelesen bzw. geschrieben werden können
